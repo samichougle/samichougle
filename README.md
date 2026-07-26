@@ -45,7 +45,7 @@
 ### Latest Builds
 
 
-- [Paytrace: UPI Expense Tracker](https://play.google.com/store/apps/details?id=com.paytrace.app)
+- [Paytrace: UPI Expense Tracker - Privacy First Expense Tracker, Data completely stored on-device, Data categorization, OCR(Optical Character Recognition) on-device, on-device report generation, and password-encrypted backup ](https://play.google.com/store/apps/details?id=com.paytrace.app)
 
 
 ---
