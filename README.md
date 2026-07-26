@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=white">
 <img src="https://img.shields.io/badge/-Progressive%20Web%20Apps-5A0FC8?style=flat&logo=pwa&logoColor=white">
 <img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white">
@@ -31,6 +32,7 @@
 <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white">
 <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/-Expo-1C2024?style=flat&logo=expo&logoColor=white">
 </p>
 
 ### Other Languages I Know
