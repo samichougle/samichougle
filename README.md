@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer from Mumbai India &#127470;&#127475</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="200" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 <br>
 <br>
@@ -35,8 +35,8 @@
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@SamiChougle">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="/">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+<!-- <a style="margin-left: 5px;" target="_blank" href="/">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a> -->
       </div>
 
 </p>
