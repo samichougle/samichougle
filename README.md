@@ -48,14 +48,13 @@
 
 - [Paytrace: UPI Expense Tracker - Privacy First Expense Tracker, Data completely stored on-device, Data categorization, OCR(Optical Character Recognition) on-device, on-device report generation, and password-encrypted backup ](https://play.google.com/store/apps/details?id=com.paytrace.app)
 
----
 
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-<p align="center">
+<p align="left">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
+ <div align="left"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://linkedin.com/in/sami-chougle-16a606280/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/samichougle">
@@ -71,7 +70,6 @@
       </div>
 </p>
 
----
 <p align="right">
 Last Edited on: 26/07/2026
 </p>
