@@ -1,8 +1,10 @@
 <h1 align="center">Hi <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">, I'm Sami</h1>
 <h3 align="center">A passionate Web developer from Mumbai India &#127470;&#127475</h3>
 
+<br>
+
 <a target="_blank" align="center">
-  <img align="right" top="500" height="200" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 <br>
 <br>
