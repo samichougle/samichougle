@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">, I'm Sami</h1>
-<h3 align="left">Full Stack Web Developer</h3>
+<h3 align="left">Full Stack & Mobile App Developer</h3>
 
 ### Tech & Tools Preference
 
