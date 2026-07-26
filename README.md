@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">, I'm Sami</h1>
-<h3 align="center">A passionate Web developer from Mumbai India &#127470;&#127475</h3>
+<h3 align="center">A passionate Web developer from Mumbai &#127470;&#127475</h3>
 
 <br>
 
